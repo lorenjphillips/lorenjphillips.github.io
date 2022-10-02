@@ -1,11 +1,6 @@
 Loren's Personal Website Files
 
-## Subheader
-
-This is text-heavy, article-oriented design built around a huge background
-image 
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images.
+Feel free to message me with any questions!
 
 Credits:
 
